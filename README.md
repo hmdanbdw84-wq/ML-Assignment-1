@@ -1,3 +1,6 @@
+Name : Abdulrahman Ismail Hamdan
+ID : 1320221891
+
 This project applies comprehensive data preprocessing and exploratory data analysis (EDA) to the House Prices: Advanced Regression Techniques dataset from Kaggle. The goal is to prepare a clean, engineered dataset ready for machine learning modeling.
 
 Key Features
@@ -33,3 +36,5 @@ Run the Jupyter notebook from start to finish.
 
 Instructor: Ibrahim O. Kaware 
 Course: Machine Learning - Assignment 1
+By : Abdulrahaman Ismail Hamdan
+ID : 1320221891
